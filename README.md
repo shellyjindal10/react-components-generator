@@ -6,7 +6,7 @@ First, install [Yeoman](http://yeoman.io) and react-components-generator using (
 
 ```bash
 npm install -g yo
-git clone https://jaxf-github.fanatics.corp/3c-web-ui/fanatics-components-generator.git
+git clone https://github.com/shellyjindal10/react-components-generator.git
 cd react-components-generator
 npm link
 ```
