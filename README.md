@@ -7,27 +7,26 @@ First, install [Yeoman](http://yeoman.io) and generator-fanatics-components usin
 ```bash
 npm install -g yo
 git clone https://jaxf-github.fanatics.corp/3c-web-ui/fanatics-components-generator.git
-cd fanatics-components-generator
+cd react-components-generator
 npm link
 ```
 
-Then generate your new Fanatics UI component:
+Then generate your new react component:
 
 ```bash
-cd 3c-web-ui/fanatics-ui/src/components/
-yo fanatics-components
+yo react-components
 ```
 
 Example Output
 
 ```bash
-bash$ yo fanatics-components
+bash$ yo react-components
 
      _-----_
     |       |    .--------------------------.
-    |--(o)--|    |  Welcome to the Fanatics |
-   `---------´   |       UI component       |
-    ( _´U`_ )    | generator-fanatics-components |
+    |--(o)--|    |  Welcome to react component |
+   `---------´   |       generator      |
+    ( _´U`_ )    | react components |
     /___A___\    |        generator!        |
      |  ~  |     '--------------------------'
    __'.___.'__

@@ -11,7 +11,7 @@ module.exports = yeoman.generators.Base.extend({
 
   // Have Yeoman greet the user.
   this.log(yosay(
-    'Welcome to the Fanatics UI component ' + chalk.red('generator-fanatics-components') + ' generator!'
+    'Welcome to the React component generator ' + chalk.red('react components') + ' generator!'
   ));
 
   let prompts = [{
