@@ -2,7 +2,7 @@
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-fanatics-components using (jaxf-github.fanatics.corp)(we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and react-components-generator using (https://github.com/shellyjindal10/react-components-generator.git)(we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
