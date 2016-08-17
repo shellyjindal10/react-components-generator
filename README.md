@@ -1,4 +1,4 @@
-# generator-fanatics-components 
+# generator-react-components 
 
 ## Installation
 
