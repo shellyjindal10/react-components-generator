@@ -1,7 +1,7 @@
 {
   "name": "react-components-generator",
   "version": "0.0.0",
-  "description": "",
+  "description": "Basic structure of React components is generated using yeoman-generator",
   "homepage": "",
   "author": {
     "name": "Shelly Jindal",
